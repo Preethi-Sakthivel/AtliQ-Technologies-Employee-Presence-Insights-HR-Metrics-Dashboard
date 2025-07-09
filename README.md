@@ -1,5 +1,11 @@
 # AtliQ-Technologies-Employee-Presence-Insights-HR-Metrics-Dashboard
 
+
+![image](https://github.com/user-attachments/assets/50109304-ea35-4c55-92f3-626c8475dde1)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/b20cfcc4-f37a-4502-b1b8-ca3c80fe457e)
 
 HR Analytics Automation Dashboard 
