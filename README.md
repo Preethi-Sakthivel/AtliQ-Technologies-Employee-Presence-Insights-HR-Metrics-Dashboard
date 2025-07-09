@@ -6,8 +6,24 @@ HR Analytics Automation Dashboard
 
 Organization: AtliQ Technologies
 
+Overview
+
 ⚙️Tools & Technologies: Power BI, Power Query, DAX, Microsoft Excel, Data Modeling, Data Integration, Data Transformation
 ________________________________________
+
+📊Led end-to-end development of a dynamic HR analytics dashboard in Power BI by consolidating and transforming attendance data from over 20 Excel sheets across 12+ months, streamlining analysis of hybrid work trends and employee presence patterns.
+
+📈Automated data ingestion and cleaning using Power Query with reusable transformation functions and parameters, enabling dynamic filtering by sheet/month and reducing manual reporting time by 90%.
+
+💻Engineered calculated DAX measures to track key HR KPIs including presence %, work-from-home %, sick leave %, working day classifications, and weekly attendance distributions—facilitating accurate headcount forecasting.
+
+📅Identified weekday attendance trends (e.g., higher WFH on Mondays/Fridays), supporting HR initiatives for optimizing office space utilization and reducing infrastructure costs through improved capacity planning.
+
+🛗Enabled predictive insights into absenteeism hotspots via sick leave pattern detection, prompting implementation of workplace health measures (e.g., enhanced sanitization policies).
+
+✅Delivered a professional, interactive dashboard that empowered HR leaders to make data-driven decisions for team building, scheduling, and hybrid policy management.
+________________________________________
+
 
 📊Project Purpose
 
