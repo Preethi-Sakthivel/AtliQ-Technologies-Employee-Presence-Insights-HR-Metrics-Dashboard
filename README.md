@@ -57,21 +57,21 @@ ________________________________________
 
 •	✅ Developed 10+ DAX-based performance measures, including:
 
-o	Work From Home %
+📅	Work From Home %
 
-o	Presence %
+📅	Presence %
 
-o	Sick Leave Count & %
+📅Sick Leave Count & %
 
-o	Total Working Days
+📅Total Working Days
 
 •	✅ Built a dynamic, filter-enabled Power BI dashboard supporting:
 
-o	Weekly and monthly trend analysis
+	🔻Weekly and monthly trend analysis
 
-o	Day-of-week breakdown
+	🔻Day-of-week breakdown
 
-o	Slicer-based drill-down into specific time periods
+	🔻Slicer-based drill-down into specific time periods
 
 •	✅ Enabled HR to identify peak in-office days for planning team events and meetings
 
